@@ -11,6 +11,12 @@ authorName: 'Serverless, inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
+# Serverless Framework AWS NodeJS Example
+
+https://github.com/coding-to-music/aws-node-project
+
+## Install Serverless CLI
+
 https://www.serverless.com/framework/docs/getting-started
 
 Install the serverless CLI via NPM:
@@ -19,7 +25,7 @@ Install the serverless CLI via NPM:
 npm install -g serverless
 ```
 
-# Serverless Framework AWS NodeJS Example
+## Create project using serverless CLI
 
 This project was created by the command 'serverless create --template aws-nodejs'.
 
@@ -27,7 +33,11 @@ or simply 'serverless' and follow the prompts.
 
 ```
 serverless
+```
 
+Output
+
+```
 Creating a new serverless project
 
 ? What do you want to make? AWS - Node.js - Starter
